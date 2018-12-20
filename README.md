@@ -46,7 +46,7 @@ Implementation of Swagger in Rest Spring Boot API.
        }
    }
    ```
-3. Modify file applitacion.properties:
+3. Modify file application.properties:
   ```
      server.port=8080
      server.servlet.context-path=/opentech
